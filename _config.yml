@@ -1,0 +1,20 @@
+name: The Yogi Cave
+analytics: {}
+content_rating:
+  adult: false
+github: true
+opengraph: {}
+title: The Inner Path to Enlightenment
+author:
+  url: 'http://www.theyogicave.com'
+color:
+  lightness: 0.0956545698213518
+  brandColors:
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
+  saturation: 0.07128855843825466
+  brandStrength: 0.9919029942229164
+  rhythmicContrast: 0.6258526548337779
