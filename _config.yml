@@ -1,16 +1,16 @@
-layout_spectrum: 0.42520008144494476
-typography_spectrum: 0.6004087149737274
+layout_spectrum: 0.5174895846722002
+typography_spectrum: 0.7348529384865213
 color:
-  lightness: 0.9940756528390258
+  lightness: 0.25127024909407636
   brandColors:
     - '#FCFFF5'
     - '#D1DBBD'
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
-  saturation: 0.06280702748050046
-  brandStrength: 0.35964181818123353
-  rhythmicContrast: 0.6711601933660816
+  saturation: 0.9657963618114221
+  brandStrength: 0.46742513545106473
+  rhythmicContrast: 0.3683545599395575
 name: The Yogi Cave
 analytics: {}
 content_rating:
